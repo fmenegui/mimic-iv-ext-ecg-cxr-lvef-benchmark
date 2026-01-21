@@ -1,4 +1,4 @@
-# Multimodal MIMIC-Ext-ECG-CXR-LVEF-benchmark Dataset
+# Multimodal MIMIC-IV-Ext-ECG-CXR-LVEF-benchmark Dataset
 
 # Description
 This repository provides the public dataset tables (CSV files) used in our work submitted to IEEE EMBC 2026 and currently **under review** processed from the MIMIC-IV dataset.
