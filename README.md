@@ -61,11 +61,13 @@ If you use this dataset tables in academic work, please cite our EMBC 2026 submi
 
 ```bibtex
 @inproceedings{Dias2026EMBC,
-  title     = {Evaluating multimodal and unimodal models using electrocardiograms and chest radiographs for reduced ejection fraction detection},
-  author    = {Dias, Felipe M and Cardenas, Diego A C and Ribeiro, Estela and Moreno, Ramon A and Rebelo, Marina F S and Krieger, Jose E and Gutierrez, Marco A},
-  booktitle = {Proc. IEEE Engineering in Medicine and Biology Conference (EMBC)},
-  year      = {2026},
-  note      = {Submitted; under review}
+  title={Evaluating multimodal and unimodal models using electrocardiograms and chest radiographs for reduced ejection fraction detection},
+  author={Dias, Felipe M and Cardenas, Diego A C and Ribeiro, Estela and Moreno, Ramon A and Rebelo, Marina F S and Krieger, Jose E and Gutierrez, Marco A},
+  booktitle={2026 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  year={2026},
+  pages={1--4},
+  organization={IEEE},
+  note= {Submitted - under review}
 }
 ```
 
