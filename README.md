@@ -61,7 +61,7 @@ If you use this dataset tables in academic work, please cite our EMBC 2026 submi
 
 ```bibtex
 @inproceedings{Dias2026EMBC,
-  title={Evaluating multimodal and unimodal models using electrocardiograms and chest radiographs for reduced ejection fraction detection},
+  title={Multimodal Deep Learning for Reduced Left Ventricular Ejection Fraction Screening Using ECG Images, Chest Radiographs, and LLM-Extracted Labels},
   author={Dias, Felipe M and Cardenas, Diego A C and Ribeiro, Estela and Moreno, Ramon A and Rebelo, Marina F S and Krieger, Jose E and Gutierrez, Marco A},
   booktitle={2026 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
   year={2026},
